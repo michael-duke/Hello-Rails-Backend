@@ -8,6 +8,7 @@
 
 greetings = Greeting.create([
   { message: "こんにちは世界！" },
+  { message: "ሰላም ልዑል!" },
   { message: "Hello, World!" },
   { message: "Olá, mundo!" },
   { message: "Bonjour, le monde!" },
